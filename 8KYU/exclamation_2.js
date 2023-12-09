@@ -1,0 +1,1 @@
+const remove = (string) => string.replace(/!/g, '').concat('!')
